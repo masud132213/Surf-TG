@@ -182,7 +182,7 @@ python3 -m bot
 
 * Clone the Repository:
 ```sh
-git clone https://github.com/weebzone/Surf-TG
+git clone https://github.com/masud132213/Surf-TG
 cd Surf-TG
 ```
 - Start Docker daemon (SKIP if already running, mostly you don't need to do this):
