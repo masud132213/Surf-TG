@@ -157,7 +157,7 @@ index - store files in Database
 ### Deploy Locally:
 
 ```sh
-git clone https://github.com/weebzone/Surf-TG
+git clone https://github.com/masud132213/Surf-TG
 cd Surf-TG
 python3 -m venv ./venv
 . ./venv/bin/activate
